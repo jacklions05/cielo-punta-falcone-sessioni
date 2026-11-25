@@ -1,0 +1,17 @@
+{
+  "tipo": "serata",
+  "versione": 1,
+  "data": "2026-11-25",
+  "nickname": "prova-claude",
+  "strumento": "TDIG",
+  "filtro": "L",
+  "oggetti": [
+    {
+      "id": "NGC1502X",
+      "nome": "NGC 1502",
+      "da": "18:30",
+      "a": "05:50"
+    }
+  ],
+  "creato": "2026-11-25T20:52:09.038Z"
+}
